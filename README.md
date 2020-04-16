@@ -22,8 +22,8 @@ https://medium.com/@justinshawngerber/how-to-create-a-simple-slackbot-in-c-f42b9
 
 ## Autores ✒️
 
-* **Nicolas Nahuelpan** - *Trabajo Inicial* - [Shompaa](https://github.com/shompaa)
-* **Giovanni Molina** - *Documentación* - [Giovasdf](https://github.com/Giovasdf)
+* **Nicolas Nahuelpan** - [Shompaa](https://github.com/shompaa)
+* **Giovanni Molina** - [Giovasdf](https://github.com/Giovasdf)
 
 ## Expresiones de Gratitud 🎁
 
